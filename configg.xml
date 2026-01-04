@@ -1,0 +1,28 @@
+{
+  "aimbot_config": {
+    "activation_key": "ALT",
+    "smoothness": 2.5,
+    "fov": 3.0,
+    "prediction": 0.15,
+    "human_behavior": true,
+    "visibility_check": true,
+    "bone_selection": "HEAD",
+    "max_distance": 200
+  },
+  "esp_config": {
+    "box_type": "CORNER",
+    "box_color": "#00FF00",
+    "healthbar": true,
+    "skeleton": false,
+    "distance": true,
+    "glow_effect": true,
+    "max_render_distance": 300
+  },
+  "safety_features": {
+    "anti_screenshot": true,
+    "memory_obfuscation": true,
+    "pattern_rotation": true,
+    "fake_traffic": true,
+    "auto_shutdown_on_detection": true
+  }
+}
