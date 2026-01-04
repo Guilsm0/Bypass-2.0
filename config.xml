@@ -1,0 +1,20 @@
+<!-- config.xml -->
+<BypassConfig>
+    <StealthMode>true</StealthMode>
+    <AutoUpdate>true</AutoUpdate>
+    <AntiCheatDetection>auto</AntiCheatDetection>
+    <ProtectionLayers>1000</ProtectionLayers>
+    <MemoryEncryption>true</MemoryEncryption>
+    <NetworkCloak>true</NetworkCloak>
+    <HardwareSpoofing>true</HardwareSpoofing>
+    <ProcessHiding>true</ProcessHiding>
+    <SignatureSpoofing>true</SignatureSpoofing>
+    <Compatibility>
+        <EAC>true</EAC>
+        <BattlEye>true</BattlEye>
+        <Vanguard>true</Vanguard>
+        <GCloud>true</GCloud>
+        <NProtect>true</NProtect>
+        <XignCode>true</XignCode>
+    </Compatibility>
+</BypassConfig>
